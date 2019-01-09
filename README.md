@@ -1,6 +1,6 @@
 # entropy_index
 
-Calculate segregation of multiple neighbourhoods and origins in the [city of Amsterdam](origins_inhabitants_amsterdam_2018.csv) with the Local Entropy Score (LES*u*).
+Calculate segregation of multiple neighbourhoods and origins using the [data of Amsterdam](origins_inhabitants_amsterdam_2018.csv) and the Local Entropy Score (LES*u*) formula.
 
 ![From: DIVERSIFYING BUT NOT INTEGRATING:ENTROPIC MEASURES OF LOCAL SEGREGATION](https://i.imgur.com/pmu9HGa.png)
 
